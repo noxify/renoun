@@ -1,5 +1,11 @@
 # renoun
 
+## 8.7.1
+
+### Patch Changes
+
+- 7d28f3d: \* Extend `MDXFile.getRuntimeValue` to be able to parse the runtime values ( e.g. frontmatter ) based on the schema definition ( e.g. via `withSchema` )
+
 ## 8.7.0
 
 ### Minor Changes
